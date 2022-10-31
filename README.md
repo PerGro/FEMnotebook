@@ -3,14 +3,23 @@
 ## 目录
 
 [前言](#before)
+
 [数学准备](#m_math)
+
 &emsp;&emsp;[矩阵](#m_m_matrix)
+
 &emsp;&emsp;[张量](#m_tensor)
+
 &emsp;&emsp;[线性空间](#m_linear)
+
 [离散系统下的数学模型](#m_stand)
+
 &emsp;&emsp;[静态问题](#jump_to_stand)
+
 [连续系统下的数学模型](#m_continue)
+
 &emsp;&emsp;[变分法](#jump_to_variational)
+
 &emsp;&emsp;[变分法下的近似解](#jump_to_variational_usolve)
 
 ----
